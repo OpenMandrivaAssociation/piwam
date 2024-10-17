@@ -9,7 +9,7 @@ Release:      %{release}
 Source0:      %{name}-%{version}-xmas.tar.gz
 License:      AGPLv3
 Group:        Monitoring
-Url:          http://code.google.com/p/piwam/
+Url:          https://code.google.com/p/piwam/
 BuildRoot:    %{_tmppath}/%{name}-buildroot
 BuildRequires: apache-base
 Requires:     php >= 4.1
